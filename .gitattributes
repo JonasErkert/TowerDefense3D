@@ -1,1 +1,2 @@
-*.aspx filter=linguist-vendored -text
+TowerDefense_3D/TowerDefense_3D_Data/Mono/etc/mono/1.0/* linguist-vendored
+TowerDefense_3D/TowerDefense_3D_Data/Mono/etc/mono/2.0/* linguist-vendored
