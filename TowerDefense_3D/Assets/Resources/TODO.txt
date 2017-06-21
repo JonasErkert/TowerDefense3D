@@ -1,4 +1,0 @@
-+++++++++++++++++  TowerDefense_3D TODO- List  +++++++++++++++++
-
-- Fokussieren der Kamera auf das gesamte Spielgeschehen (transform.position auf Anfangswert).
-- Nach Zerstören eines Gegners gelben Partikelstrom in richtung Geldanzeige.
