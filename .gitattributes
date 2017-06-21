@@ -1,0 +1,1 @@
+*.aspx filter=linguist-vendored -text
