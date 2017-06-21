@@ -1,0 +1,7 @@
++++++++++++++++++  TowerDefense_3D TODO- List  +++++++++++++++++
+
+- Fokussieren der Kamera auf das gesamte Spielgeschehen (transform.position auf Anfangswert).
+- Fixen, dass man während "GameOver" pausieren kann.
+- Upgrade -> Sell -> Upgrade nicht mehr möglich. => Bug fixen.
+- Schneller/ Langsamer/ Normale Geschwindigkeit Button.
+- Das zweite Level ist vom Start an unlocked- Fehler finden

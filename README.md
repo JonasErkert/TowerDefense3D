@@ -15,27 +15,27 @@ Thanks to [this](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u
 
 ### Here are some screenshots of the game:
 * Main Menu:
-[!MainMenu](./img/TowerDefense_3D/MainMenu.jpg)
+![MainMenu](./img/TowerDefense_3D/MainMenu.jpg)
 
 * Select Level screen:
-[!SelectLevel](./img/TowerDefense_3D/SelectLevel.jpg)
+![SelectLevel](./img/TowerDefense_3D/SelectLevel.jpg)
 
 * First game level:
-[!FirstLevel](./img/TowerDefense_3D/FirstLevel.jpg)
+![FirstLevel](./img/TowerDefense_3D/FirstLevel.jpg)
 
 * First game level:
-[!SecondLevel](./img/TowerDefense_3D/SecondLevel.jpg)
+![SecondLevel](./img/TowerDefense_3D/SecondLevel.jpg)
 
 * Pausing screen:
-[!PauseMenu](./img/TowerDefense_3D/PauseMenu.jpg)
+![PauseMenu](./img/TowerDefense_3D/PauseMenu.jpg)
 
 * If you can beat the level:
-[!LevelWon](./img/TowerDefense_3D/LevelWon.jpg)
+![LevelWon](./img/TowerDefense_3D/LevelWon.jpg)
 
 * If you can't:
-[!GameOver](./img/TowerDefense_3D/GameOver.jpg)
+![GameOver](./img/TowerDefense_3D/GameOver.jpg)
 
-### TODO- List:
+### TODO- list:
  * Functionality to add:
 	 + Focus the camera on the whole scene, so you can see your money and the time till the next wave starts (set transform.position to the start values of the camera).
 	 + Slower/ Normal/ Faster buttons to let the player control the game speed.
