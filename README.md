@@ -34,10 +34,3 @@ Thanks to [this](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u
 * If you lose all your lives:
 ![GameOver](./img/TowerDefense_3D/GameOver.jpg)
 
-### TODO- list:
- * Functionality to add:
-	 + Focus the camera on the whole scene, so you can see your money and the time till the next wave starts (set transform.position to the start values of the camera).
-	 + Slower/ Normal/ Faster buttons to let the player control the game speed.
- * Bugs:
-	+ If you upgrade a turret, sell it and place the same turret type on the same Node you cannot upgrade the turret anymore.
-	+ Currently you can pause at the GameOver and the "LevelWon" screen- prohibit that.
