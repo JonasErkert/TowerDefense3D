@@ -1,6 +1,3 @@
-# Unity
-A collection of Unity projects I've created so far.
-
 ## 3D Tower Defense
 Thanks to [this](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0&index=1 "YouTube- Playlist") tutorial series I've created a 3D Tower Defense Game and learned a lot of things, for example:
 - Creating a main menu
@@ -33,4 +30,3 @@ Thanks to [this](https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u
 
 * If you lose all your lives:
 ![GameOver](./img/TowerDefense_3D/GameOver.jpg)
-
